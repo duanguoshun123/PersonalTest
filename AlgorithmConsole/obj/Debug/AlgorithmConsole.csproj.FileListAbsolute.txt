@@ -1,0 +1,10 @@
+D:\MyTestProject\githubProj\PersonalTest\AlgorithmConsole\bin\Debug\AlgorithmConsole.exe.config
+D:\MyTestProject\githubProj\PersonalTest\AlgorithmConsole\bin\Debug\AlgorithmConsole.exe
+D:\MyTestProject\githubProj\PersonalTest\AlgorithmConsole\bin\Debug\AlgorithmConsole.pdb
+D:\MyTestProject\githubProj\PersonalTest\AlgorithmConsole\bin\Debug\Algorithm_Class.dll
+D:\MyTestProject\githubProj\PersonalTest\AlgorithmConsole\bin\Debug\Algorithm_Class.pdb
+D:\MyTestProject\githubProj\PersonalTest\AlgorithmConsole\obj\Debug\AlgorithmConsole.csprojAssemblyReference.cache
+D:\MyTestProject\githubProj\PersonalTest\AlgorithmConsole\obj\Debug\AlgorithmConsole.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\PersonalTest\AlgorithmConsole\obj\Debug\AlgorithmConsole.csproj.CopyComplete
+D:\MyTestProject\githubProj\PersonalTest\AlgorithmConsole\obj\Debug\AlgorithmConsole.exe
+D:\MyTestProject\githubProj\PersonalTest\AlgorithmConsole\obj\Debug\AlgorithmConsole.pdb

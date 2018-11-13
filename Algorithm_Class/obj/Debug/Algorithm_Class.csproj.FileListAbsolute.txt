@@ -1,0 +1,6 @@
+D:\MyTestProject\githubProj\PersonalTest\Algorithm_Class\bin\Debug\Algorithm_Class.dll
+D:\MyTestProject\githubProj\PersonalTest\Algorithm_Class\bin\Debug\Algorithm_Class.pdb
+D:\MyTestProject\githubProj\PersonalTest\Algorithm_Class\obj\Debug\Algorithm_Class.csprojAssemblyReference.cache
+D:\MyTestProject\githubProj\PersonalTest\Algorithm_Class\obj\Debug\Algorithm_Class.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\PersonalTest\Algorithm_Class\obj\Debug\Algorithm_Class.dll
+D:\MyTestProject\githubProj\PersonalTest\Algorithm_Class\obj\Debug\Algorithm_Class.pdb

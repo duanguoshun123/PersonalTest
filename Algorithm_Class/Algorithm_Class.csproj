@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FibonacciSequence.cs" />
     <Compile Include="TowersOfHanoi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

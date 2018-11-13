@@ -1,0 +1,6 @@
+D:\MyTestProject\PersonalTest\TestAsyncAndSync\bin\Debug\TestAsyncAndSync.exe.config
+D:\MyTestProject\PersonalTest\TestAsyncAndSync\bin\Debug\TestAsyncAndSync.exe
+D:\MyTestProject\PersonalTest\TestAsyncAndSync\bin\Debug\TestAsyncAndSync.pdb
+D:\MyTestProject\PersonalTest\TestAsyncAndSync\obj\Debug\TestAsyncAndSync.csprojResolveAssemblyReference.cache
+D:\MyTestProject\PersonalTest\TestAsyncAndSync\obj\Debug\TestAsyncAndSync.exe
+D:\MyTestProject\PersonalTest\TestAsyncAndSync\obj\Debug\TestAsyncAndSync.pdb

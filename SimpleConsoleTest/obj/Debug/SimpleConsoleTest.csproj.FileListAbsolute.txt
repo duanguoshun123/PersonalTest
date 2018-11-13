@@ -1,0 +1,7 @@
+D:\MyTestProject\PersonalTest\SimpleConsoleTest\bin\Debug\SimpleConsoleTest.exe.config
+D:\MyTestProject\PersonalTest\SimpleConsoleTest\bin\Debug\SimpleConsoleTest.exe
+D:\MyTestProject\PersonalTest\SimpleConsoleTest\bin\Debug\SimpleConsoleTest.pdb
+D:\MyTestProject\PersonalTest\SimpleConsoleTest\obj\Debug\SimpleConsoleTest.csprojAssemblyReference.cache
+D:\MyTestProject\PersonalTest\SimpleConsoleTest\obj\Debug\SimpleConsoleTest.csproj.CoreCompileInputs.cache
+D:\MyTestProject\PersonalTest\SimpleConsoleTest\obj\Debug\SimpleConsoleTest.exe
+D:\MyTestProject\PersonalTest\SimpleConsoleTest\obj\Debug\SimpleConsoleTest.pdb

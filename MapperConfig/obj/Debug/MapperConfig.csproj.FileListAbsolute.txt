@@ -1,0 +1,6 @@
+D:\MyTestProject\PersonalTest\MapperConfig\bin\Debug\MapperConfig.dll
+D:\MyTestProject\PersonalTest\MapperConfig\bin\Debug\MapperConfig.pdb
+D:\MyTestProject\PersonalTest\MapperConfig\bin\Debug\RobotMapper.dll
+D:\MyTestProject\PersonalTest\MapperConfig\obj\Debug\MapperConfig.csprojResolveAssemblyReference.cache
+D:\MyTestProject\PersonalTest\MapperConfig\obj\Debug\MapperConfig.dll
+D:\MyTestProject\PersonalTest\MapperConfig\obj\Debug\MapperConfig.pdb

@@ -1,0 +1,7 @@
+D:\MyTestProject\PersonalTest\LinqHelper\bin\Debug\LinqHelper.exe.config
+D:\MyTestProject\PersonalTest\LinqHelper\bin\Debug\LinqHelper.exe
+D:\MyTestProject\PersonalTest\LinqHelper\bin\Debug\LinqHelper.pdb
+D:\MyTestProject\PersonalTest\LinqHelper\obj\Debug\LinqHelper.csprojAssemblyReference.cache
+D:\MyTestProject\PersonalTest\LinqHelper\obj\Debug\LinqHelper.csproj.CoreCompileInputs.cache
+D:\MyTestProject\PersonalTest\LinqHelper\obj\Debug\LinqHelper.exe
+D:\MyTestProject\PersonalTest\LinqHelper\obj\Debug\LinqHelper.pdb

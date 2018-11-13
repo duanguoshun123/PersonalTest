@@ -32,7 +32,7 @@ namespace Algorithm_Class
             }
             else
             {
-                return FibonacciSequenceCal(n - 1)+FibonacciSequenceCal(n-2);
+                return FibonacciSequenceCal(n - 1) + FibonacciSequenceCal(n - 2);
             }
         }
     }

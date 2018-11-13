@@ -27,6 +27,10 @@ namespace AlgorithmConsole
             //    Console.Write($"{fibonacciSequence.FibonacciSequenceCal(i)}、");
             //} 
             //#endregion
+            #region 快速找出质数
+            AlgorithmGossip algorithmGossip = new AlgorithmGossip();
+            algorithmGossip.AlgorithmGossipCal();
+            #endregion
         }
     }
 }

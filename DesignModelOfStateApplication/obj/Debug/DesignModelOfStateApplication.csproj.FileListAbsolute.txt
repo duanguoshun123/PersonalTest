@@ -8,3 +8,15 @@ D:\MyTestProject\PersonalTest\DesignModelOfStateApplication\bin\Debug\DeepShallo
 D:\MyTestProject\PersonalTest\DesignModelOfStateApplication\obj\Debug\DesignModelOfStateApplication.csprojResolveAssemblyReference.cache
 D:\MyTestProject\PersonalTest\DesignModelOfStateApplication\obj\Debug\DesignModelOfStateApplication.exe
 D:\MyTestProject\PersonalTest\DesignModelOfStateApplication\obj\Debug\DesignModelOfStateApplication.pdb
+D:\MyTestProject\githubProj\PersonalTest\DesignModelOfStateApplication\bin\Debug\DesignModelOfStateApplication.exe.config
+D:\MyTestProject\githubProj\PersonalTest\DesignModelOfStateApplication\bin\Debug\DesignModelOfStateApplication.exe
+D:\MyTestProject\githubProj\PersonalTest\DesignModelOfStateApplication\bin\Debug\DesignModelOfStateApplication.pdb
+D:\MyTestProject\githubProj\PersonalTest\DesignModelOfStateApplication\bin\Debug\DesignModelClass.dll
+D:\MyTestProject\githubProj\PersonalTest\DesignModelOfStateApplication\bin\Debug\DeepShallowCopy.dll
+D:\MyTestProject\githubProj\PersonalTest\DesignModelOfStateApplication\bin\Debug\DesignModelClass.pdb
+D:\MyTestProject\githubProj\PersonalTest\DesignModelOfStateApplication\bin\Debug\DeepShallowCopy.pdb
+D:\MyTestProject\githubProj\PersonalTest\DesignModelOfStateApplication\obj\Debug\DesignModelOfStateApplication.csprojAssemblyReference.cache
+D:\MyTestProject\githubProj\PersonalTest\DesignModelOfStateApplication\obj\Debug\DesignModelOfStateApplication.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\PersonalTest\DesignModelOfStateApplication\obj\Debug\DesignModelOfStateApplication.csproj.CopyComplete
+D:\MyTestProject\githubProj\PersonalTest\DesignModelOfStateApplication\obj\Debug\DesignModelOfStateApplication.exe
+D:\MyTestProject\githubProj\PersonalTest\DesignModelOfStateApplication\obj\Debug\DesignModelOfStateApplication.pdb

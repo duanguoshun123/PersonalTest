@@ -4,3 +4,11 @@ D:\MyTestProject\PersonalTest\MapperConfig\bin\Debug\RobotMapper.dll
 D:\MyTestProject\PersonalTest\MapperConfig\obj\Debug\MapperConfig.csprojResolveAssemblyReference.cache
 D:\MyTestProject\PersonalTest\MapperConfig\obj\Debug\MapperConfig.dll
 D:\MyTestProject\PersonalTest\MapperConfig\obj\Debug\MapperConfig.pdb
+D:\MyTestProject\githubProj\PersonalTest\MapperConfig\bin\Debug\MapperConfig.dll
+D:\MyTestProject\githubProj\PersonalTest\MapperConfig\bin\Debug\MapperConfig.pdb
+D:\MyTestProject\githubProj\PersonalTest\MapperConfig\bin\Debug\RobotMapper.dll
+D:\MyTestProject\githubProj\PersonalTest\MapperConfig\obj\Debug\MapperConfig.csprojAssemblyReference.cache
+D:\MyTestProject\githubProj\PersonalTest\MapperConfig\obj\Debug\MapperConfig.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\PersonalTest\MapperConfig\obj\Debug\MapperConfig.csproj.CopyComplete
+D:\MyTestProject\githubProj\PersonalTest\MapperConfig\obj\Debug\MapperConfig.dll
+D:\MyTestProject\githubProj\PersonalTest\MapperConfig\obj\Debug\MapperConfig.pdb

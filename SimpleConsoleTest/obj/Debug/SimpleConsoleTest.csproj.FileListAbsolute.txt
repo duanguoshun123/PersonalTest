@@ -5,3 +5,10 @@ D:\MyTestProject\PersonalTest\SimpleConsoleTest\obj\Debug\SimpleConsoleTest.cspr
 D:\MyTestProject\PersonalTest\SimpleConsoleTest\obj\Debug\SimpleConsoleTest.csproj.CoreCompileInputs.cache
 D:\MyTestProject\PersonalTest\SimpleConsoleTest\obj\Debug\SimpleConsoleTest.exe
 D:\MyTestProject\PersonalTest\SimpleConsoleTest\obj\Debug\SimpleConsoleTest.pdb
+D:\MyTestProject\githubProj\PersonalTest\SimpleConsoleTest\bin\Debug\SimpleConsoleTest.exe.config
+D:\MyTestProject\githubProj\PersonalTest\SimpleConsoleTest\bin\Debug\SimpleConsoleTest.exe
+D:\MyTestProject\githubProj\PersonalTest\SimpleConsoleTest\bin\Debug\SimpleConsoleTest.pdb
+D:\MyTestProject\githubProj\PersonalTest\SimpleConsoleTest\obj\Debug\SimpleConsoleTest.csprojAssemblyReference.cache
+D:\MyTestProject\githubProj\PersonalTest\SimpleConsoleTest\obj\Debug\SimpleConsoleTest.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\PersonalTest\SimpleConsoleTest\obj\Debug\SimpleConsoleTest.exe
+D:\MyTestProject\githubProj\PersonalTest\SimpleConsoleTest\obj\Debug\SimpleConsoleTest.pdb

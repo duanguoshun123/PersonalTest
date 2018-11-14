@@ -4,3 +4,8 @@ D:\MyTestProject\PersonalTest\DeepShallowCopy\obj\Debug\DeepShallowCopy.dll
 D:\MyTestProject\PersonalTest\DeepShallowCopy\obj\Debug\DeepShallowCopy.pdb
 D:\MyTestProject\PersonalTest\DeepShallowCopy\obj\Debug\DeepShallowCopy.csprojAssemblyReference.cache
 D:\MyTestProject\PersonalTest\DeepShallowCopy\obj\Debug\DeepShallowCopy.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\PersonalTest\DeepShallowCopy\bin\Debug\DeepShallowCopy.dll
+D:\MyTestProject\githubProj\PersonalTest\DeepShallowCopy\bin\Debug\DeepShallowCopy.pdb
+D:\MyTestProject\githubProj\PersonalTest\DeepShallowCopy\obj\Debug\DeepShallowCopy.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\PersonalTest\DeepShallowCopy\obj\Debug\DeepShallowCopy.dll
+D:\MyTestProject\githubProj\PersonalTest\DeepShallowCopy\obj\Debug\DeepShallowCopy.pdb

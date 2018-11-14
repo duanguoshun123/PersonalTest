@@ -7,3 +7,12 @@ D:\MyTestProject\PersonalTest\DesignModelClass\bin\Debug\DeepShallowCopy.pdb
 D:\MyTestProject\PersonalTest\DesignModelClass\obj\Debug\DesignModelClass.csprojAssemblyReference.cache
 D:\MyTestProject\PersonalTest\DesignModelClass\obj\Debug\DesignModelClass.csproj.CoreCompileInputs.cache
 D:\MyTestProject\PersonalTest\DesignModelClass\obj\Debug\DesignModelClass.csproj.CopyComplete
+D:\MyTestProject\githubProj\PersonalTest\DesignModelClass\bin\Debug\DesignModelClass.dll
+D:\MyTestProject\githubProj\PersonalTest\DesignModelClass\bin\Debug\DesignModelClass.pdb
+D:\MyTestProject\githubProj\PersonalTest\DesignModelClass\bin\Debug\DeepShallowCopy.dll
+D:\MyTestProject\githubProj\PersonalTest\DesignModelClass\bin\Debug\DeepShallowCopy.pdb
+D:\MyTestProject\githubProj\PersonalTest\DesignModelClass\obj\Debug\DesignModelClass.csprojAssemblyReference.cache
+D:\MyTestProject\githubProj\PersonalTest\DesignModelClass\obj\Debug\DesignModelClass.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\PersonalTest\DesignModelClass\obj\Debug\DesignModelClass.csproj.CopyComplete
+D:\MyTestProject\githubProj\PersonalTest\DesignModelClass\obj\Debug\DesignModelClass.dll
+D:\MyTestProject\githubProj\PersonalTest\DesignModelClass\obj\Debug\DesignModelClass.pdb

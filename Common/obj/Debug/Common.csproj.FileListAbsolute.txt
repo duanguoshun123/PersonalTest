@@ -3,3 +3,9 @@ D:\MyTestProject\PersonalTest\Common\bin\Debug\Common.pdb
 D:\MyTestProject\PersonalTest\Common\obj\Debug\Common.dll
 D:\MyTestProject\PersonalTest\Common\obj\Debug\Common.pdb
 D:\MyTestProject\PersonalTest\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\MyTestProject\githubProj\PersonalTest\Common\bin\Debug\Common.dll
+D:\MyTestProject\githubProj\PersonalTest\Common\bin\Debug\Common.pdb
+D:\MyTestProject\githubProj\PersonalTest\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\MyTestProject\githubProj\PersonalTest\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\PersonalTest\Common\obj\Debug\Common.dll
+D:\MyTestProject\githubProj\PersonalTest\Common\obj\Debug\Common.pdb

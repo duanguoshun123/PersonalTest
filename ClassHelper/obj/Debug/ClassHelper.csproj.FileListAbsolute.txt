@@ -10,3 +10,17 @@ D:\MyTestProject\PersonalTest\ClassHelper\bin\Debug\MongoDB.Driver.xml
 D:\MyTestProject\PersonalTest\ClassHelper\obj\Debug\ClassHelper.csprojResolveAssemblyReference.cache
 D:\MyTestProject\PersonalTest\ClassHelper\obj\Debug\ClassHelper.dll
 D:\MyTestProject\PersonalTest\ClassHelper\obj\Debug\ClassHelper.pdb
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\bin\Debug\ClassHelper.dll
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\bin\Debug\ClassHelper.pdb
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\bin\Debug\log4net.dll
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\bin\Debug\Logger.dll
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\bin\Debug\MongoDB.Bson.dll
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\bin\Debug\MongoDB.Driver.dll
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\bin\Debug\log4net.xml
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\bin\Debug\MongoDB.Bson.xml
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\bin\Debug\MongoDB.Driver.xml
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\obj\Debug\ClassHelper.csprojAssemblyReference.cache
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\obj\Debug\ClassHelper.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\obj\Debug\ClassHelper.csproj.CopyComplete
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\obj\Debug\ClassHelper.dll
+D:\MyTestProject\githubProj\PersonalTest\ClassHelper\obj\Debug\ClassHelper.pdb

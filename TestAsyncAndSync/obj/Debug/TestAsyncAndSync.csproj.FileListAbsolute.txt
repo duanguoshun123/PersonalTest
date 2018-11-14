@@ -4,3 +4,9 @@ D:\MyTestProject\PersonalTest\TestAsyncAndSync\bin\Debug\TestAsyncAndSync.pdb
 D:\MyTestProject\PersonalTest\TestAsyncAndSync\obj\Debug\TestAsyncAndSync.csprojResolveAssemblyReference.cache
 D:\MyTestProject\PersonalTest\TestAsyncAndSync\obj\Debug\TestAsyncAndSync.exe
 D:\MyTestProject\PersonalTest\TestAsyncAndSync\obj\Debug\TestAsyncAndSync.pdb
+D:\MyTestProject\githubProj\PersonalTest\TestAsyncAndSync\bin\Debug\TestAsyncAndSync.exe.config
+D:\MyTestProject\githubProj\PersonalTest\TestAsyncAndSync\bin\Debug\TestAsyncAndSync.exe
+D:\MyTestProject\githubProj\PersonalTest\TestAsyncAndSync\bin\Debug\TestAsyncAndSync.pdb
+D:\MyTestProject\githubProj\PersonalTest\TestAsyncAndSync\obj\Debug\TestAsyncAndSync.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\PersonalTest\TestAsyncAndSync\obj\Debug\TestAsyncAndSync.exe
+D:\MyTestProject\githubProj\PersonalTest\TestAsyncAndSync\obj\Debug\TestAsyncAndSync.pdb

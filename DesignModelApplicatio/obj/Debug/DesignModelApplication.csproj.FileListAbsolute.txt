@@ -8,3 +8,15 @@ D:\MyTestProject\PersonalTest\DesignModelApplicatio\bin\Debug\DesignModelClass.d
 D:\MyTestProject\PersonalTest\DesignModelApplicatio\bin\Debug\DeepShallowCopy.dll
 D:\MyTestProject\PersonalTest\DesignModelApplicatio\bin\Debug\DesignModelClass.pdb
 D:\MyTestProject\PersonalTest\DesignModelApplicatio\bin\Debug\DeepShallowCopy.pdb
+D:\MyTestProject\githubProj\PersonalTest\DesignModelApplicatio\bin\Debug\DesignModelApplicatio.exe.config
+D:\MyTestProject\githubProj\PersonalTest\DesignModelApplicatio\bin\Debug\DesignModelApplicatio.exe
+D:\MyTestProject\githubProj\PersonalTest\DesignModelApplicatio\bin\Debug\DesignModelApplicatio.pdb
+D:\MyTestProject\githubProj\PersonalTest\DesignModelApplicatio\bin\Debug\DesignModelClass.dll
+D:\MyTestProject\githubProj\PersonalTest\DesignModelApplicatio\bin\Debug\DeepShallowCopy.dll
+D:\MyTestProject\githubProj\PersonalTest\DesignModelApplicatio\bin\Debug\DesignModelClass.pdb
+D:\MyTestProject\githubProj\PersonalTest\DesignModelApplicatio\bin\Debug\DeepShallowCopy.pdb
+D:\MyTestProject\githubProj\PersonalTest\DesignModelApplicatio\obj\Debug\DesignModelApplication.csprojAssemblyReference.cache
+D:\MyTestProject\githubProj\PersonalTest\DesignModelApplicatio\obj\Debug\DesignModelApplication.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\PersonalTest\DesignModelApplicatio\obj\Debug\DesignModelApplication.csproj.CopyComplete
+D:\MyTestProject\githubProj\PersonalTest\DesignModelApplicatio\obj\Debug\DesignModelApplicatio.exe
+D:\MyTestProject\githubProj\PersonalTest\DesignModelApplicatio\obj\Debug\DesignModelApplicatio.pdb

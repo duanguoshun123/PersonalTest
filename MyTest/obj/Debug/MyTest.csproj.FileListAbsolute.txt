@@ -11,3 +11,16 @@ D:\MyTestProject\PersonalTest\MyTest\bin\Debug\DeepShallowCopy.pdb
 D:\MyTestProject\PersonalTest\MyTest\obj\Debug\MyTest.csprojAssemblyReference.cache
 D:\MyTestProject\PersonalTest\MyTest\obj\Debug\MyTest.csproj.CoreCompileInputs.cache
 D:\MyTestProject\PersonalTest\MyTest\obj\Debug\MyTest.csproj.CopyComplete
+D:\MyTestProject\githubProj\PersonalTest\MyTest\bin\Debug\MyTest.dll
+D:\MyTestProject\githubProj\PersonalTest\MyTest\bin\Debug\MyTest.pdb
+D:\MyTestProject\githubProj\PersonalTest\MyTest\bin\Debug\DesignModelClass.dll
+D:\MyTestProject\githubProj\PersonalTest\MyTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MyTestProject\githubProj\PersonalTest\MyTest\bin\Debug\DeepShallowCopy.dll
+D:\MyTestProject\githubProj\PersonalTest\MyTest\bin\Debug\DesignModelClass.pdb
+D:\MyTestProject\githubProj\PersonalTest\MyTest\bin\Debug\DeepShallowCopy.pdb
+D:\MyTestProject\githubProj\PersonalTest\MyTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\MyTestProject\githubProj\PersonalTest\MyTest\obj\Debug\MyTest.csprojAssemblyReference.cache
+D:\MyTestProject\githubProj\PersonalTest\MyTest\obj\Debug\MyTest.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\PersonalTest\MyTest\obj\Debug\MyTest.csproj.CopyComplete
+D:\MyTestProject\githubProj\PersonalTest\MyTest\obj\Debug\MyTest.dll
+D:\MyTestProject\githubProj\PersonalTest\MyTest\obj\Debug\MyTest.pdb

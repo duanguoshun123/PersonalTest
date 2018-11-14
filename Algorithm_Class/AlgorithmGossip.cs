@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -39,6 +41,28 @@ namespace Algorithm_Class
             {
                 Console.Write($"{listZhiShu[i]}、");
             }
+        }
+        /// <summary>
+        /// 超大数计算（判断是否是质数）
+        /// </summary>
+        /// <returns></returns>
+        public bool IsPrime()
+        {
+            string largeNumber = @"300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001";
+            BigInteger bigInteger = BigInteger.Parse(largeNumber);
+            if (bigInteger.IsEven)
+            {
+                return false;
+            }
+            for (BigInteger bi = 3; BigInteger.Pow(bi, 2) <= bigInteger; bi += 2)
+            {
+                if (bigInteger % bi == 0)
+                {
+                    Console.WriteLine($"{largeNumber}能被{bi}整除");
+                    return false;
+                }
+            }
+            return true;
         }
     }
 }

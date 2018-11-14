@@ -30,6 +30,9 @@ namespace AlgorithmConsole
             #region 快速找出质数
             AlgorithmGossip algorithmGossip = new AlgorithmGossip();
             algorithmGossip.AlgorithmGossipCal();
+            // 超大数据计算（判断是否是质数为例）
+            algorithmGossip.IsPrime();
+
             #endregion
         }
     }

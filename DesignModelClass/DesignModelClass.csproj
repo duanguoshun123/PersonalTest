@@ -40,6 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BuildModel\Builder.cs" />
+    <Compile Include="BuildModel\Computer.cs" />
+    <Compile Include="BuildModel\ConcreteBuilder.cs" />
+    <Compile Include="BuildModel\Director.cs" />
     <Compile Include="MediatorModel\Department.cs" />
     <Compile Include="MediatorModel\Development.cs" />
     <Compile Include="MediatorModel\Financial .cs" />
